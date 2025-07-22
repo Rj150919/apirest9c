@@ -7,7 +7,7 @@
     "dev": "nodemon server.js"
   },
   "keywords": [],
-  "author": "Oswaldo Isaith Castillo Ibarra",
+  "author": "Ricardo Jonathan Acosta Marín",
   "license": "ISC",
   "dependencies": {
     "express": "^5.1.0",
